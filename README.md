@@ -16,4 +16,4 @@ The following are the prediction % for above models
 3. Boruta- 73.5 %
 4. Hyper Parameter Tunning - 70.9 %
 
-Submitter Prediction File Outcome using Boruta- 78.07 %
+Submitted Prediction File Outcome using Boruta- 78.07 %
